@@ -15,7 +15,6 @@ C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.TagHelpers.output.cache
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.RazorCoreGenerate.cache
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form.cshtml.g.cs
-C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\Razor\Views\MadLib.cshtml.g.cs
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.RazorTargetAssemblyInfo.cache
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.RazorTargetAssemblyInfo.cs
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.Views.pdb
@@ -23,3 +22,4 @@ C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.pdb
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.genruntimeconfig.cache
 C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\MadLibs.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Desktop\MadLibs.Solutions\Madlibs\obj\Debug\netcoreapp2.2\Razor\Views\Home\MadLib.cshtml.g.cs

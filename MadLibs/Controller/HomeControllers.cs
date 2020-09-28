@@ -6,8 +6,8 @@ namespace MadLibs.Controllers {
         [Route ("/form")]
         public ActionResult Form () { return View (); }
 
-        [Route ("/MadLibResult")]
-        public ActionResult MadlibResult (string noun1, string noun2,string noun3, string adjective1,string adjective2, string adjective3,string adjective4, string verbPastTense1,string verbPastTense2, string verb, string adverb1, string adverb2) {
+        [Route ("/MadLib")]
+        public ActionResult MadLib (string noun1, string noun2,string noun3, string adjective1,string adjective2, string adjective3,string adjective4, string verbPastTense1,string verbPastTense2, string verb, string adverb1, string adverb2) {
             MadLibVariable myMadLibVariable = new MadLibVariable ();
             myMadLibVariable.Noun1 = noun1;
             myMadLibVariable.Noun2 = noun2;
@@ -22,6 +22,8 @@ namespace MadLibs.Controllers {
             myMadLibVariable.Adverb1 = adverb1;
             myMadLibVariable.Adverb2 = adverb2;
             return View (myMadLibVariable);
+
+
         }
     }
 }
